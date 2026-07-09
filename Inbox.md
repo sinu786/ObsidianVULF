@@ -1,10 +1,5 @@
 Allright just saw a tiger
 
----
+[7/9/26, 7:05 PM]
 What's happening?
-
 ---
-I think we just pulled off the jarvis
-
----
-Should we be concerned
