@@ -1,0 +1,351 @@
+{
+  "main": {
+    "id": "d103d97c67b23b31",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ce99ee139618944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b2f4ea3eba72289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planning"
+            }
+          },
+          {
+            "id": "7fde39f3d73e79a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scoping.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scoping"
+            }
+          },
+          {
+            "id": "cba560f8550f9215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network"
+            }
+          },
+          {
+            "id": "d4b7abede034d8b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Light.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Light"
+            }
+          },
+          {
+            "id": "66d4c38ae9f83fa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Core"
+            }
+          },
+          {
+            "id": "9681b83242487510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dubai strategy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dubai strategy"
+            }
+          },
+          {
+            "id": "eb72b0611ccbc078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "af6235e235b445f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Restaurants Feedbacks on LG AR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Restaurants Feedbacks on LG AR"
+            }
+          },
+          {
+            "id": "f32f397a128cf571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "86f53231ab88e085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dubai strategy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dubai strategy"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66746ec552ad9cb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "38698a05bbd47853",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "730f30f0329c75c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f02f6be4f6205851",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cbbded97f3f2f3e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c04febffcb46b884",
+    "type": "split",
+    "children": [
+      {
+        "id": "f27cb285f1d5764d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c22a9fec11bd01b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Command Center/Daily/2025-10-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-10-13"
+            }
+          },
+          {
+            "id": "605a3f05b3964599",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Command Center/Daily/2025-10-13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-10-13"
+            }
+          },
+          {
+            "id": "11983ac5f76c386d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0244d2d8043889fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Todo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Todo"
+            }
+          },
+          {
+            "id": "6a0547731b8ba79a",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "copilot:Open Copilot Chat": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "66d4c38ae9f83fa0",
+  "lastOpenFiles": [
+    "README.md",
+    "Light.md",
+    "Core.md",
+    "Dubai strategy.md",
+    "Network.md",
+    "Scoping.md",
+    "Planning.md",
+    "Todo.md",
+    "Timeline.md",
+    "Restaurants Feedbacks on LG AR.md",
+    "Budget and Schedule.md",
+    "Network profile.md",
+    "copilot/copilot-conversations/Vault_Organization_and_Task_Management@20260519_181834.md",
+    "copilot/copilot-conversations",
+    "copilot",
+    "All/Divisions/HR and Admin.md",
+    "All/Team/Sinan.md",
+    "All/Team/Silwan.md",
+    "All/Team/Zulfikar.md",
+    "All/Team/Johan.md",
+    "All/Systems Blueprint/Weekly Sprint Template.md",
+    "All/Systems Blueprint/SOP Templates.md",
+    "All/Systems Blueprint/6 Month Goal Systems.md",
+    "All/Projects/DAA - GymDAA - Gym.md",
+    "All/Projects/Website/Website.md",
+    "All/Meetings/Weekly sprint.md",
+    "All/Meetings/Quarterly Strategy.md",
+    "All/Meetings/Monthly Divisions Review.md",
+    "All",
+    "All/copilot/copilot-conversations",
+    "All/copilot/copilot-custom-prompts",
+    "All/copilot",
+    "All/Projects/Website",
+    "All/Command Center/Daily",
+    "All/Systems Blueprint",
+    "All/Team"
+  ]
+}
