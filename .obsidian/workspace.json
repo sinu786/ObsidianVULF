@@ -83,20 +83,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inbox"
-            }
-          },
-          {
-            "id": "9681b83242487510",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Dubai strategy.md",
                 "mode": "source",
                 "source": false
@@ -132,37 +118,9 @@
               "icon": "lucide-file",
               "title": "Restaurants Feedbacks on LG AR"
             }
-          },
-          {
-            "id": "f32f397a128cf571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timeline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "86f53231ab88e085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dubai strategy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dubai strategy"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -323,20 +281,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1daa612365fcf77a",
+  "active": "eb72b0611ccbc078",
   "lastOpenFiles": [
-    "Core.md",
-    "Inbox.md",
-    "README.md",
-    "Light.md",
+    "Restaurants Feedbacks on LG AR.md",
     "Dubai strategy.md",
+    "Timeline.md",
+    "Core.md",
+    "Light.md",
     "Network.md",
     "Scoping.md",
     "Planning.md",
-    "Todo.md",
-    "Timeline.md",
-    "Restaurants Feedbacks on LG AR.md",
     "Budget and Schedule.md",
+    "Inbox.md",
+    "README.md",
+    "Todo.md",
     "Network profile.md",
     "copilot/copilot-conversations/Vault_Organization_and_Task_Management@20260519_181834.md",
     "copilot/copilot-conversations",
