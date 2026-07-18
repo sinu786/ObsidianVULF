@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pitch script.md",
+                "file": "Emergency protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pitch script"
+              "title": "Emergency protocol"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Employment Stream"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,12 +210,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fd54f0dd2b6fa3fe",
+  "active": "a58d8bae5e49499e",
   "lastOpenFiles": [
     "Pitch script.md",
-    "Emergency protocol.md",
     "Social Media marketing core offer.md",
     "Employment Stream.md",
+    "Emergency protocol.md",
     "Restaurants Feedbacks on LG AR.md",
     "Timeline.md",
     "Dubai strategy.md",
