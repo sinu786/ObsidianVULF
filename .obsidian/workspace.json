@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emergency protocol.md",
+                "file": "Pitch script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Emergency protocol"
+              "title": "Pitch script"
             }
           },
           {
@@ -212,11 +212,12 @@
   },
   "active": "a58d8bae5e49499e",
   "lastOpenFiles": [
+    "Emergency protocol.md",
+    "Pitch script.md",
     "Social Media marketing core offer.md",
     "Employment Stream.md",
     "Restaurants Feedbacks on LG AR.md",
     "Timeline.md",
-    "Emergency protocol.md",
     "Dubai strategy.md",
     "Core.md",
     "Light.md",
@@ -239,7 +240,6 @@
     "All/Systems Blueprint/Weekly Sprint Template.md",
     "All/Systems Blueprint/SOP Templates.md",
     "All/Systems Blueprint/6 Month Goal Systems.md",
-    "All/Projects/DAA - GymDAA - Gym.md",
     "All",
     "All/copilot/copilot-conversations",
     "All/copilot/copilot-custom-prompts",

@@ -1,6 +1,6 @@
 Social media marketing Package VULF
-	core offer
-	Pitch script
+	[[Social Media marketing core offer]]
+	[[Pitch script]]
 	Packages
 	SOW
 	Sales reps
