@@ -1,7 +1,7 @@
 Social media marketing Package VULF
 	[[Social Media marketing core offer]]
 	[[Pitch script]]
-	Packages
+	[[Packages]]
 	SOW
 	Sales reps
 	Lead Funnel strategy
