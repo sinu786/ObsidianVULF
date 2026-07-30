@@ -8,6 +8,11 @@ Laqam Gourmet
 
 
 - Titles finalizing
+	- Project manager - producer --
+	  Creative producer -- 
+
+
+
 - Resources hosted
 Application based on availability
 
