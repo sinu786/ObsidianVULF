@@ -1,6 +1,6 @@
 VULF Int
-	- Anchoring 
-	- (Waiting on response from Anchors)
+	- Anchoring
+	- (Waiting on response from Anchors) - Aditya K, running a sm marketing agency for professional consultants.
 DEED (Laqam Gourmet Verdict)
 	Malik orientation
 Laqam Gourmet
