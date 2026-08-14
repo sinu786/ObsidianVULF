@@ -50,6 +50,32 @@
             }
           },
           {
+            "id": "f2e6e6df93fa2159",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
+          },
+          {
+            "id": "0c0d432f99dcf21e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Script.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Script"
+            }
+          },
+          {
             "id": "fd54f0dd2b6fa3fe",
             "type": "leaf",
             "state": {
@@ -78,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -241,8 +267,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "88883104cdefdead",
+  "active": "0c0d432f99dcf21e",
   "lastOpenFiles": [
+    "Script.md",
     "Scoping.md",
     "Streams.md",
     "Network.md",
@@ -270,7 +297,6 @@
     "All/Team/Silwan.md",
     "All/Team/Zulfikar.md",
     "All/Team/Johan.md",
-    "All/Systems Blueprint/Weekly Sprint Template.md",
     "All",
     "All/copilot/copilot-conversations",
     "All/copilot/copilot-custom-prompts",
