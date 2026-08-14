@@ -1,0 +1,1 @@
+Hello everyone, My name is Sinan, i have been in this group for more than a month now and i have been observing the discussion and ideas shared here, an

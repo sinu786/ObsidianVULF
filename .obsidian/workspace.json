@@ -76,6 +76,20 @@
             }
           },
           {
+            "id": "2cbadc7c49d304c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Script for DFI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Script for DFI"
+            }
+          },
+          {
             "id": "fd54f0dd2b6fa3fe",
             "type": "leaf",
             "state": {
@@ -104,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -267,9 +281,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0c0d432f99dcf21e",
+  "active": "2cbadc7c49d304c5",
   "lastOpenFiles": [
     "Script.md",
+    "Script for DFI.md",
     "Scoping.md",
     "Streams.md",
     "Network.md",
@@ -296,7 +311,6 @@
     "All/Team/Sinan.md",
     "All/Team/Silwan.md",
     "All/Team/Zulfikar.md",
-    "All/Team/Johan.md",
     "All",
     "All/copilot/copilot-conversations",
     "All/copilot/copilot-custom-prompts",
