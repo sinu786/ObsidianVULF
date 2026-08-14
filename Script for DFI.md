@@ -1,1 +1,3 @@
-Hello everyone, My name is Sinan, i have been in this group for more than a month now and i have been observing the discussion and ideas shared here, an
+Hello everyone, My name is Sinan, i have been in this group for more than a month now and i have been observing the discussion and ideas shared here, Noticed some really cool ideas and quality community.
+
+I have a tech studio, we create immersive, intelligent and interactive solutions for brands. I have had experience working with brands like SOny JIo, TATA etc bakc in India with Immersive marketing projects and I am looking into finding a footing in the Middle east creative tech landscape. 
