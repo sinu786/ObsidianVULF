@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -251,8 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 548.8984375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,12 +266,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2cbadc7c49d304c5",
+  "active": "fd54f0dd2b6fa3fe",
   "lastOpenFiles": [
     "Script.md",
+    "Script for DFI.md",
     "Social Media marketing core offer.md",
     "Employment Stream.md",
-    "Script for DFI.md",
     "Scoping.md",
     "Streams.md",
     "Network.md",

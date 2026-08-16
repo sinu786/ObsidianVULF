@@ -4,4 +4,4 @@ I am curious about the application of creative technology and its use as a catal
 
 
 
-this is Something that i c\
+this is Something
