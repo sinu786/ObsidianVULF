@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Streams.md",
+                "file": "Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Streams"
+              "title": "Script"
             }
           },
           {
@@ -103,8 +103,7 @@
               "title": "Employment Stream"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,14 +265,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fd54f0dd2b6fa3fe",
+  "active": "f97e63d8ed5235a6",
   "lastOpenFiles": [
-    "Script.md",
     "Script for DFI.md",
     "Social Media marketing core offer.md",
-    "Employment Stream.md",
-    "Scoping.md",
     "Streams.md",
+    "Todo.md",
+    "Timeline.md",
+    "Employment Stream.md",
+    "Script.md",
+    "Scoping.md",
     "Network.md",
     "Light.md",
     "Emergency protocol.md",
@@ -282,12 +283,10 @@
     "Packages.md",
     "Pitch script.md",
     "Restaurants Feedbacks on LG AR.md",
-    "Timeline.md",
     "Dubai strategy.md",
     "Planning.md",
     "Inbox.md",
     "README.md",
-    "Todo.md",
     "Network profile.md",
     "copilot/copilot-conversations/Vault_Organization_and_Task_Management@20260519_181834.md",
     "copilot/copilot-conversations",
