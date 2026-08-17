@@ -5,7 +5,7 @@ I am trying to contact the marketing or ecommrece lead. could you connect me wit
 
 
 Hello, is this. ....?
-can you tell me more abaout the restaurants dishes and the cuisine and the culinary team.i noticed the  menu an i found them really artisitc and presentable and i think it could benefit an interactive layer for customers to expereince it forther from their personal devices. like lets say a customer will be able to see a dish in 3d and in the table before it arrives and can experience the artistry and have a much better sense of expereince the restaurant is providing.
+can you tell me more abaout the restaurants dishes and the cuisine and the culinary team.i noticed the  menu an i found them really artisitc and presentable and i think it could benefit greatly  from an interactive layer for customers to expereince it further from their personal devices. like lets say a customer will be able to see a dish in 3d and in the table before it arrives and can experience the artistry and have a much better sense of expereince to the restaurants brand. can you direct me to someone whom i can talk about this in detail.?
 
 
 
