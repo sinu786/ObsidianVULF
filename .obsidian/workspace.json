@@ -103,7 +103,8 @@
               "title": "Employment Stream"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -265,15 +266,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f97e63d8ed5235a6",
+  "active": "eaeaf2d729768957",
   "lastOpenFiles": [
-    "Script for DFI.md",
     "Social Media marketing core offer.md",
+    "Script for DFI.md",
+    "Script.md",
     "Streams.md",
     "Todo.md",
     "Timeline.md",
     "Employment Stream.md",
-    "Script.md",
     "Scoping.md",
     "Network.md",
     "Light.md",
