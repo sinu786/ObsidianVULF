@@ -4,6 +4,10 @@ i noticed the ecommerce page and your products are well designed and pleasent on
 I am trying to contact the marketing or ecommrece lead. could you connect me with them.
 
 
+Hello, is this. ....?
+i was going through and found the menu really beutifuul. and artistic. 
+
+
 Jae Malic
 Hey Jae, This i Sinan .Connected with Sarah last day and she gave me your contact.this can be
 
