@@ -40,8 +40,11 @@ there is also an extended epilogie short. where the boy has grown. he has made h
 
 and he goes outside and the guy outside is shown from behind showing the boy like a cowboy shot. and he asks. i wanted to talk to you about somehting that happened in your childhood.
 
-and then our grown up biys asks , who are you.
+and then our grown up boys asks , who are you.
 
-then he senses the niew guy haviing a demonic aura of a werewolf like shadow eccircling his skin. 
+then he senses the new guy having a demonic aura of a werewolf like shadow eccircling his skin. 
 
-this is the buildup to the PISAJ aour full AAA game. and the full universe of the BRahman and atman game with him being Arya
+this is the buildup to the PISAJ our full AAA game. and the full universe of the BRahman and atman game with him being Arya
+
+PISAJ
+
