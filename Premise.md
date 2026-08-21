@@ -21,4 +21,8 @@ to walks away from the river. across the river is the rice fields. and sourround
 
 he slowly walks along the riverbanks. he notices a friendly face, another boy. standing near a mango tree. he is using a slingshot to try and shoot on a mango. there is a burning fire near by. 
 
+the boy gives us the slingshot, we try it. a guard or a goon sees us and chases us. we run with the boy towards the rice foield, maze chase. enter the jungle. the face also chaces us. jungle level.>> we find a ransaced village in the jungle. and deadbodies. the mango biy is missing after rice field. finds a similar body on the ransacked village. proceeds further evading gaurds and goons. then slowly makes our way into the f0rbidden shrine. a great banyan tree. dead bodies of theyyam performers hanged front her trees like fruits. a few dozem pof them. a scary old lady chases us. and scares us. tells ius to be wary of the landlord. and he is an evil high class who killed their clan or tribe. and says that divine retribution wioll m=be made. and god will come. in devils face.
+
+
+we go down the shrine and finds a cave entrance. sammotheing flashes and we see monsters and demons. we have a scythe or a sickle kind of weap
 
