@@ -117,7 +117,8 @@
               "title": "Briefs"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -279,10 +280,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f97e63d8ed5235a6",
+  "active": "2cbadc7c49d304c5",
   "lastOpenFiles": [
-    "Core.md",
     "Script.md",
+    "Emergency protocol.md",
+    "Core.md",
     "Script for DFI.md",
     "Social Media marketing core offer.md",
     "Briefs.md",
@@ -293,7 +295,6 @@
     "Scoping.md",
     "Network.md",
     "Light.md",
-    "Emergency protocol.md",
     "Budget and Schedule.md",
     "Packages.md",
     "Pitch script.md",
