@@ -19,4 +19,6 @@ gameplay begin>>
 
 to walks away from the river. across the river is the rice fields. and sourrounded by hills of tea plantaions. and a buetifull scenery. he doesnt know where he is. He only knows he is safe now. but still the terror flashes before him. that mask. no that face. what was that. but it is eerily similar. he remembers nothing. only that his parents are dead, who killed and he is completely oblivious of the events that has happened.
 
-he slowly walks on the b
+he slowly walks along the riverbanks. he notices a friendly face, another boy. standing near a mango tree. he is using a slingshot to try and shoot on a mango. there is a burning fire near by. 
+
+
