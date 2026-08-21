@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Media marketing core offer.md",
+                "file": "Streams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Social Media marketing core offer"
+              "title": "Streams"
             }
           },
           {
@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -280,30 +280,30 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2cbadc7c49d304c5",
+  "active": "88883104cdefdead",
   "lastOpenFiles": [
-    "Script.md",
-    "Emergency protocol.md",
-    "Core.md",
-    "Script for DFI.md",
-    "Social Media marketing core offer.md",
-    "Briefs.md",
-    "Employment Stream.md",
-    "Streams.md",
-    "Todo.md",
     "Timeline.md",
+    "Streams.md",
+    "Social Media marketing core offer.md",
+    "Script for DFI.md",
+    "Script.md",
     "Scoping.md",
+    "Restaurants Feedbacks on LG AR.md",
+    "README.md",
+    "Planning.md",
+    "Pitch script.md",
+    "Packages.md",
+    "Network profile.md",
     "Network.md",
     "Light.md",
-    "Budget and Schedule.md",
-    "Packages.md",
-    "Pitch script.md",
-    "Restaurants Feedbacks on LG AR.md",
-    "Dubai strategy.md",
-    "Planning.md",
     "Inbox.md",
-    "README.md",
-    "Network profile.md",
+    "Employment Stream.md",
+    "Emergency protocol.md",
+    "Dubai strategy.md",
+    "Core.md",
+    "Budget and Schedule.md",
+    "Briefs.md",
+    "Todo.md",
     "copilot/copilot-conversations/Vault_Organization_and_Task_Management@20260519_181834.md",
     "copilot/copilot-conversations",
     "copilot",
