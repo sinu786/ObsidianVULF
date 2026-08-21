@@ -1,7 +1,6 @@
-Hello everyone, My name is Sinan, i have been in this group for a month now and i have been observing the discussion and ideas shared here, Noticed some really cool ideas and a quality community.
+Hello everyone, my name is Sinan, Founder at VULF Interactive. I have been in this group for a month now and i have been observing the discussion and ideas shared here, Noticed some really cool ideas and a quality community.
 
-I am curious about the application of creative technology and its use as a catalyst in marketing and branding, as well as its various utilities in calibrating efficient operations in business processes and customer engagement. If you are someone who is in the same line of interest or if you are curious about these and would like a conversation to share ideas. hit me up. I am looking out for possible synergies and directions.
-
+I am curious about the application of creative technology and its use as a catalyst in marketing and branding,We build WebXR and AR configurators for furniture/hospitality brands — solving the conversion gap between online discovery and purchase confidence. you're shipping D2C or have clients losing sales to "can't visualize it," let's talk. Looking for partners, first clients, and sharp minds thinking about immersive commerce. 
 I have attached some demos of works we have done and a brief intro, any feedbacks or thoughts are welcome.
 
 Furniture 3D configurator and AR (Mattress Demo)
@@ -13,3 +12,6 @@ https://laqam-gourmet.vercel.app/
 Thanks for reading it and Cheers
 
 
+
+
+Hi all — Sinan here, VULF Interactive founder. Been here a month, impressed by the caliber of thinking. We build WebXR and AR configurators for furniture/hospitality brands — solving the conversion gap between online discovery and purchase confidence. Live demos: [links]. If you're shipping D2C or have clients losing sales to "can't visualize it," let's talk. Looking for partners, first clients, and sharp minds thinking about immersive commerce. Feedback welcome.
