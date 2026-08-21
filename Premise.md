@@ -24,5 +24,10 @@ he slowly walks along the riverbanks. he notices a friendly face, another boy. s
 the boy gives us the slingshot, we try it. a guard or a goon sees us and chases us. we run with the boy towards the rice foield, maze chase. enter the jungle. the face also chaces us. jungle level.>> we find a ransaced village in the jungle. and deadbodies. the mango biy is missing after rice field. finds a similar body on the ransacked village. proceeds further evading gaurds and goons. then slowly makes our way into the f0rbidden shrine. a great banyan tree. dead bodies of theyyam performers hanged front her trees like fruits. a few dozem pof them. a scary old lady chases us. and scares us. tells ius to be wary of the landlord. and he is an evil high class who killed their clan or tribe. and says that divine retribution wioll m=be made. and god will come. in devils face.
 
 
-we go down the shrine and finds a cave entrance. sammotheing flashes and we see monsters and demons. we have a scythe or a sickle kind of weap
+we go down the shrine and finds a cave entrance. sammotheing flashes and we see monsters and demons. we have a scythe or a sickle kind of weapins somehow. we kill the demons. we make our way  to the centre. a demon castle appears. we enter. inside 2 demons. male and female. we kill them both. in epic action trance sequence.
 
+we fall down. and black. slowly open eyes. see the same sight as the bergininning of the game. we killed oour own parents in the theyyam trance. we were the divine retribution. or psychosis whichever makes sense.
+
+game starts again and loops. 2nd playthrough, we know more. 
+
+the tribe follows a godly ritual the theyyam. the landlord bansihed the tribe and mocked their tradition. a nd killed all performers and ransacked the village. he was evil. our father. one of the theyyam perfomrers son was our friend. we always played together and also seen his dad perfomr theyyam as well. but this violence by our father made a traumatic evenrt of losung out friend who was already dead. the events are jumbled and we play thourgh again and again until we realize that even at the start of the game we had the slingshot even before meeting the mango boy it was all a delusion.the fire next to it was his body cremation. we were sitting at the mango tree all this time. trying to make sense of wehat 
