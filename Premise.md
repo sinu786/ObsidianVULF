@@ -38,4 +38,10 @@ a poor biy bcae a tool of dvine retribution whilke his mind crumbled.
 
 there is also an extended epilogie short. where the boy has grown. he has made himself to be a major person and he is shown meditatong and practicing some kind of yoga. and a servant comes to him and says someone outside is asking for him.
 
-and 
+and he goes outside and the guy outside is shown from behind showing the boy like a cowboy shot. and he asks. i wanted to talk to you about somehting that happened in your childhood.
+
+and then our grown up biys asks , who are you.
+
+then he senses the niew guy haviing a demonic aura of a werewolf like shadow eccircling his skin. 
+
+this is the buildup to the PISAJ aour full AAA game. and the full universe of the BRahman and atman game with him being Arya
