@@ -33,3 +33,9 @@ game starts again and loops. 2nd playthrough, we know more.
 the tribe follows a godly ritual the theyyam. the landlord bansihed the tribe and mocked their tradition. a nd killed all performers and ransacked the village. he was evil. our father. one of the theyyam perfomrers son was our friend. we always played together and also seen his dad perfomr theyyam as well. but this violence by our father made a traumatic evenrt of losung out friend who was already dead. the events are jumbled and we play thourgh again and again until we realize that even at the start of the game we had the slingshot even before meeting the mango boy it was all a delusion.the fire next to it was his body cremation. we were sitting at the mango tree all this time. trying to make sense of wehat happened. this only happens and breaks the loop if we throuway the slibngshot and burn it with him. and we sit in the fire and processes everything. a carriage comes by asking us if we want a ride. we ride intoi the unset and leaves this curesed village and the end.
 
 a poor biy bcae a tool of dvine retribution whilke his mind crumbled.
+
+
+
+there is also an extended epilogie short. where the boy has grown. he has made himself to be a major person and he is shown meditatong and practicing some kind of yoga. and a servant comes to him and says someone outside is asking for him.
+
+and 
