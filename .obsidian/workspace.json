@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theyym.md",
+                "file": "Premise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theyym"
+              "title": "Premise"
             }
           },
           {
@@ -297,7 +297,7 @@
   "active": "73231f17ad6971c9",
   "lastOpenFiles": [
     "Todo.md",
-    "Theyym.md",
+    "Premise.md",
     "Timeline.md",
     "Streams.md",
     "Social Media marketing core offer.md",
