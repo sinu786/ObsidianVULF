@@ -1,0 +1,7 @@
+- website ver 1 - layout and basic skeleton
+- product page - detailed product page
+- Content production
+- polish and finalize
+- Deploy with domain
+- payment integration
+- additional setup
