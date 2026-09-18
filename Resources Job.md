@@ -5,7 +5,22 @@
 	pdf of case study of process
 	Linkedin
 	resume
+	cover letter
 
 Realtime artist profile
 
-	Arstation seper
+	Arstation seperate
+	Showreel seperate
+	pdf of case study of process seperate
+	Linkedin same
+	Resume seperate
+	cover letter
+
+Creative director
+
+	Showreel seperate
+	Resume seperate
+	Pdf of case study of process seperate
+	Linkedin same
+	Resume seperate
+	cover letter
