@@ -49,8 +49,7 @@
               "title": "Freelance and consulting plan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,10 +212,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1030dc4a6bda8b0d",
+  "active": "f2baefcacf4c1706",
   "lastOpenFiles": [
-    "Freelance and consulting plan.md",
     "Resources Job.md",
+    "Freelance and consulting plan.md",
     "Orange Launch Plan 1.md",
     "Pitch script.md",
     "Emergency protocol.md",
