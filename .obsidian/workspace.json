@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,10 +213,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "17664dd3bc8af66d",
+  "active": "1030dc4a6bda8b0d",
   "lastOpenFiles": [
-    "Resources Job.md",
     "Freelance and consulting plan.md",
+    "Resources Job.md",
     "Orange Launch Plan 1.md",
     "Pitch script.md",
     "Emergency protocol.md",
