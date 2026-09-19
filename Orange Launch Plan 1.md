@@ -5,3 +5,12 @@
 - Deploy with domain
 - payment integration
 - additional setup
+  
+  
+  
+  
+  Home screen 
+	- BG Image
+	- landing content
+	- Music loop
+	- 
