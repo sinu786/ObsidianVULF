@@ -1,4 +1,4 @@
-- website ver 1 - layout and basic skeleton
+- website ver 1 - layout and basic skeleton ----- DONE
 - product page - detailed product page
 - Content production
 - polish and finalize
