@@ -1,8 +1,8 @@
 3D artist profile
 
-	Artstation
-	Showreel
-	pdf of case study of process
+	Artstation ---
+	Showreel ---
+	pdf of case study of process 
 	Linkedin
 	resume
 	cover letter
