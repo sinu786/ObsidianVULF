@@ -10,10 +10,10 @@ Event Chart ------
 	Fathers Feud
 	The Ritual
 	The Cursed Kill
-	The entraptment and escape
+	The entrapment and escape
 
 	The village massacred
-
+	
 	The Old womans warning
 
 
