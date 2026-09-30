@@ -50,5 +50,10 @@ LEVELS
 
 1. lets steal some Mangoes
 2. The Dark forest
-3. The 
+3. The Dead Village
+4. The Grove
+5. The Hell
 
+
+6. lets kill some
+7. tribe village
