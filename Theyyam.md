@@ -6,6 +6,11 @@ landscape and river base -----------
 Event Chart ------
 
 	Meeting the Mango boy
+	Meeting the Tribe village
+	Fathers Feud
+	The Ritual
+	The Cursed Kill
+	The entraptment and escape
 
 	The village massacred
 
