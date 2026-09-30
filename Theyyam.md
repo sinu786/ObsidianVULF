@@ -29,11 +29,13 @@ Loop 1
 	Meeting the Mango boy
 	The village massacred
 	The Ritual
+	Cursed Kill
 	The Old womans warning under the banyan
 	The Trance
 
-Loop 2 
+Loop 2
 
-	meeting the mango boys cremation
-	Meeting the Tribe village
+	Banyan tree father
+	meeting the tribe village
+	the boys body cremate
 	
