@@ -44,3 +44,11 @@ Loop 2
 	trance
 	
 	good bye mango boy
+
+
+LEVELS
+
+1. lets steal some Mangoes
+2. The Dark forest
+3. The 
+
