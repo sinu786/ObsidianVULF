@@ -10,7 +10,7 @@ Event Chart ------
 	Fathers Feud - 7
 	The Ritual - 6
 	The Cursed Kill - 8
-	The entrapment and escape
+	The entrapment and escape -
 
 	The village massacred - 2
 
@@ -23,3 +23,17 @@ Event Chart ------
 
 	The Trance - 4 (Loop 1)
 	Good bye Mango boy
+
+Loop 1 
+
+	Meeting the Mango boy
+	The village massacred
+	The Ritual
+	The Old womans warning under the banyan
+	The Trance
+
+Loop 2 
+
+	meeting the mango boys cremation
+	Meeting the Tribe village
+	
