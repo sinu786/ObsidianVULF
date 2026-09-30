@@ -13,6 +13,8 @@ Event Chart ------
 	The entrapment and escape
 
 	The village massacred
+
+	Boys body cremate
 	
 	The Old womans warning
 
