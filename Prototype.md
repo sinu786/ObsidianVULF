@@ -1,1 +1,6 @@
-game play loop. from the floating to mango boy.
+game load to play.
+
+play sequences ->
+
+	to mango boy
+	to banana 
