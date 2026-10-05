@@ -50,5 +50,5 @@ LEVELS
 
 1. Upper Village
 2. Lower Village
-3. Mango tree
+3. Mango Tree
 4. Banyan Tree
