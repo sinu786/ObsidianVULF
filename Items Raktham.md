@@ -1,7 +1,7 @@
-Equippables Tools permanent - In Inventory / World
+Equip ables Tools permanent - In Inventory / World - cant be combined with Equip able tools
 
-	Slingshot - 
-	Sickle
+	Slingshot - {In world - Pot(Puts in the pot) and Rice sacks drops to the world}, {Burning Coal pebbles(Ammo)}, Oil fire and water - just burns or dousess.
+	Sickle -  only affects with Ropes to be cut.
 	Torch - and Flint
 
 Pickable commons - only in world
@@ -10,7 +10,7 @@ Pickable commons - only in world
 	Rice sacks
 	Haystacks
 
-Consumables and Throwables - In Inventory / World
+Consumables and Throw ables - In Inventory / World
 
 	Burning Coal
 	Pebbles
