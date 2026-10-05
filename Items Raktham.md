@@ -18,4 +18,10 @@ Consumables and Throwables
 Sources
 
 	Oil Reserves
-	
+	Water Reserves
+	Fire Sources
+
+Tools Consumable
+
+	Ropes
+	Hooks
