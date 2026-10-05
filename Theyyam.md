@@ -5,55 +5,50 @@ landscape and river base -----------
 
 Event Chart ------
 
-	Meeting the Mango boy - 1
-	Meeting the Tribe village - 5
-	Fathers Feud - 7
-	The Ritual - 6
-	The Cursed Kill - 8
-	The entrapment and escape -
+	Meeting the Mango boy - 1 - Mango Tree
+	Meeting the Tribe village - 5 - Lower Village
+	Fathers Feud - 7 - Upper Village
+	The Ritual - 6 - Banyan Tree
+	The Cursed Kill - 8 - Lower Village
+	The entrapment and escape - Upper Village
 
-	The village massacred - 2
+	The village massacred - 2 - Lower Village
 
-	Boys body cremate
+	Boys body cremate - Mango Tree
 
-	slingshot recover
+	slingshot recover - Lower Village
 	
-	The Old womans warning under the banyan - 3 
+	The Old womans warning under the banyan - 3 - Banyan Tree
 
-
-	The Trance - 4 (Loop 1)
-	Good bye Mango boy
+ 
+	The Trance - 4 (Loop 1) Upper Village
+	Good bye Mango boy  - Mango Tree
 
 Loop 1 
 
-	Meeting the Mango boy
-	The village massacred
-	The Ritual
-	The Old womans warning under the banyan
-	The Trance
+	Meeting the Mango boy - MT
+	The village massacred - LV
+	The Ritual - BT
+	The Old womans warning under the banyan - BT
+	The Trance - UV
 
 Loop 2
 
-	Banyan tree father
-	meeting the tribe village
-	Cursed Kill
-	entrapment
-	massacred village
-	the boys body cremate
-	old womans warning
-	trance
+	Banyan tree father - BT
+	meeting the tribe village - LV
+	Cursed Kill - BT
+	entrapment - UV
+	massacred village - LV
+	the boys body cremate - MT
+	old womans warning - BT
+	trance - UV
 	
-	good bye mango boy
+	good bye mango boy - MT
 
 
 LEVELS
 
-1. lets steal some Mangoes
-2. The Dark forest
-3. The Dead Village
-4. The Grove
-5. The Hell
-
-
-6. lets kill some
-7. tribe village
+1. Upper Village
+2. Lower Village
+3. Mango tree
+4. Banyan Tree
