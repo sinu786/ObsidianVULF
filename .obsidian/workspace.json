@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shot_Shore.md",
+                "file": "Items Raktham.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shot_Shore"
+              "title": "Items Raktham"
             }
           },
           {
@@ -313,16 +313,19 @@
   },
   "active": "1030dc4a6bda8b0d",
   "lastOpenFiles": [
+    "Light.md",
+    "Mattress upgrade for Linkedin post.md",
+    "Network.md",
+    "Network profile.md",
+    "Shot_Shore.md",
     "Script for DFI.md",
     "Script.md",
-    "Mattress upgrade for Linkedin post.md",
     "Resources Job.md",
     "Orange Launch Plan 1.md",
     "Items Raktham.md",
     "Theyyam.md",
     "Polishing.md",
     "Prototype.md",
-    "Shot_Shore.md",
     "Investigating Levels.md",
     "Ashik Resume.md",
     "Freelance and consulting plan.md",
@@ -336,9 +339,6 @@
     "Premise.md",
     "Todo.md",
     "Timeline.md",
-    "Streams.md",
-    "Scoping.md",
-    "Restaurants Feedbacks on LG AR.md",
     "copilot/copilot-conversations",
     "copilot",
     "All",
