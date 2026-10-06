@@ -4,7 +4,7 @@
 	Showreel ---
 	pdf of case study of process 
 	Linkedin
-	resume
+	resume ---
 	cover letter
 
 Realtime artist profile
@@ -24,10 +24,3 @@ Creative director
 	Linkedin same
 	Resume seperate
 	cover letter
-
-
-Roblox Job
-
-	Showreel video with commercial projects.
-	Showreel with realtime art
-	pdf with models and assets made.
