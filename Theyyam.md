@@ -59,6 +59,7 @@ Prototype
 
 	Slingshot Equip
 	Slingshot actions
+	Blink Animation 
 	
 
 Debug
