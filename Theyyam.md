@@ -67,4 +67,7 @@ Debug
 Polish
 	L_Mango Tree FirstPass
 	Animations for Slingshot
-	
+	Game CheckPoints and Events
+	Ambience and SFX First Pass
+
+
