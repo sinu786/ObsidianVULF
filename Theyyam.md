@@ -52,3 +52,19 @@ LEVELS
 2. Lower Village
 3. Mango Tree
 4. Banyan Tree
+
+
+
+Prototype
+
+	Slingshot Equip
+	Slingshot actions
+	
+
+Debug
+	Crouch Fix
+
+Polish
+	L_Mango Tree FirstPass
+	Animations for Slingshot
+	
