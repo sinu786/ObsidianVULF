@@ -26,8 +26,11 @@ Event Chart ------
 
 Loop 1 
 
-	Meeting the Mango boy - MT
-	The village massacred - LV
+	Meeting the Mango boy - MT - Ac -1 Where we meet the boy walking from the river to the mangotree and the gaurds chasing for stealing the mango trees and to the entrance of the dark forest.
+	The village massacred - LV - when we enter the forest t
+	
+	
+	
 	The Old womans warning under the banyan - BT
 	Loop 1 ends, 
 
