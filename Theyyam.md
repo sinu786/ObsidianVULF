@@ -28,9 +28,8 @@ Loop 1
 
 	Meeting the Mango boy - MT
 	The village massacred - LV
-	The Ritual - BT
 	The Old womans warning under the banyan - BT
-	The Trance - UV
+	Loop 1 ends, 
 
 Loop 2
 
