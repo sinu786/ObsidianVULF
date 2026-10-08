@@ -9,7 +9,7 @@ and thenwe see a towering figure of theyyam looking dead straight at us, we run 
 
 Loop 1 
 
-the player has the impression that we have escaped from some demon a
+the player has the impression that we have escaped from some demon attacking our village and escaped and we have reached somewhere safe .
 
 
 	Meeting the Mango boy - MT - Ac -1 Where we meet the boy walking from the river to the mangotree and the gaurds chasing for stealing the mango trees and to the entrance of the dark forest.
@@ -21,11 +21,14 @@ the player has the impression that we have escaped from some demon a
 	
 	
 	Loop 1 ends,  with one of the dead bodies getting creepy and a sudden scream towards us jumpscare. and we open our eyes to see the intro story cutscene again with the figure looking at us and dad died beside us and everyone dead in the upper village.  
+	
+		players have the impression that somehow the diety came and killed our dad and the entire village and it spared only us, and we escaped. and in shock that it was our dad who commited this atrocities.
 
 Loop 2
 
-	Banyan tree father - BT
-	Entrapment
+	Banyan tree father - BT - same river bank, but its night and more creepy and eerie and disturbing, we walk towards the mango tree, but no mango tree. theres a banyan tree not with mangoes but dead bodies hanging from it, and in place for the mango boy, its our father throwing knives or something at them. have a brief conversation very creepy with dad and knows that he was always like this and he pulls our arms and throws us into the floor, suddenkly we are in a room and dad has locked us. its kind of like a hallcusination, where events are mixing up. not knowuing whgats real and whats not.
+	
+	Entrapment - Upper village - we are in our big house and trapped. we escape the house somehow and escape the village to the lower village. and we reach the lower village, the mango boy is very much alive
 	meeting the tribe village - LV
 	The Ritual Performed Live
 	trance - UV
