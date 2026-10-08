@@ -34,12 +34,9 @@ Loop 1
 Loop 2
 
 	Banyan tree father - BT
+	Entrapment
 	meeting the tribe village - LV
-	Cursed Kill - BT
-	entrapment - UV
-	massacred village - LV
-	the boys body cremate - MT
-	old womans warning - BT
+	The Ritual Performed Live
 	trance - UV
 	
 	good bye mango boy - MT
