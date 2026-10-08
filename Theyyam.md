@@ -29,11 +29,13 @@ Loop 2
 	Banyan tree father - BT - same river bank, but its night and more creepy and eerie and disturbing, we walk towards the mango tree, but no mango tree. theres a banyan tree not with mangoes but dead bodies hanging from it, and in place for the mango boy, its our father throwing knives or something at them. have a brief conversation very creepy with dad and knows that he was always like this and he pulls our arms and throws us into the floor, suddenkly we are in a room and dad has locked us. its kind of like a hallcusination, where events are mixing up. not knowuing whgats real and whats not.
 	
 	Entrapment - Upper village - we are in our big house and trapped. we escape the house somehow and escape the village to the lower village. and we reach the lower village, the mango boy is very much alive.
-	meeting the tribe village - Lower Village - We see the lower village very much alive everyone active and doing their jollies, we meet all the people who were dead we saw, and tragic poetry of how they died mirroring how they lived here. the boy and we do errands and have fun in the village meeting all the people. who we saw dead. and then his father comes in who is the performer, and 
-	The Ritual Performed Live
-	trance - UV
+	meeting the tribe village - Lower Village - We see the lower village very much alive everyone active and doing their jollies, we meet all the people who were dead we saw, and tragic poetry of how they died mirroring how they lived here. the boy and we do errands and have fun in the village meeting all the people. who we saw dead. and then his father comes in who is the performer.
+	The Ritual Performed Live - banyan tree - Boys father performs theyyam, speaking in fascinating poetry and philosphy of existence and god. and saying in the end getting awfully cose to the boy and saying that god is me, and you. and you are god and you are me.
+	trance - Upper Village - we are flashed to someplace demonic peopple strolling about, we have the sword of the theyyam and we kill all the demons, theres a slight control issue as we begin killing saomeone but something else is controlling the player as well, like a trance he get superhigh and more and more vicious and angrey and screaming. and we see a very bad abig boss demon and kills him. the same scene flashes and colors all disappear to reveal its our house and the boss demon we just gutted was our Dad. we killed all of them or God did, through Us.
 	
-	good bye mango boy - MT
+	good bye mango boy -  Mango tree - wakeup from the real loop and to to the mango tree now in the similar mood when we actually first met the mango boy, we give him a funeral and burn the slingshot and farewell on. atravlling bullock cart into the sunset.
+	
+	THE END
 
 
 LEVELS
