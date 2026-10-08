@@ -27,12 +27,14 @@ Event Chart ------
 Loop 1 
 
 	Meeting the Mango boy - MT - Ac -1 Where we meet the boy walking from the river to the mangotree and the gaurds chasing for stealing the mango trees and to the entrance of the dark forest.
-	The village massacred - LV - when we enter the forest t
+	The village massacred - Lower Village - when we enter the forest its all eerie and horror creeps up. we reach th evillage but no sign of the boy who ran before us. this is the main level opf the game first half mostly. we investigate the vilage and find people died in brutal ways like stories in how they died. finding all of them and knowing what happened there are the objectives there. we get the items from there and chemical gameplay of fire water and oil is the main puzzle there. once we find the main deadbodies and their story, not like a narration but a scene where players deducted whow they were killed. we reach the end to find the next level, we understand that there was a feud and they all died brutally to a sadistic brahmin leader from clues. we gte more and more info from the clues about the villain. 
 	
 	
 	
-	The Old womans warning under the banyan - BT
-	Loop 1 ends, 
+	The Old womans warning under the banyan - Banyan tree - this is a small level just like the mango level. just 1 tree and we see all the dead hanginfbodies of the theyyam costumed performers, and an old lady comes and scares us and tells that he is a demon, and curses him and says that he and his people will die by the hands of the god. and the old lady talks implying that was our father. 
+	
+	
+	Loop 1 ends,  with one of the dead bodies getting kreepy and a sudden sc
 
 Loop 2
 
