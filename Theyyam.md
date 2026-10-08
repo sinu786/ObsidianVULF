@@ -17,7 +17,7 @@ the player has the impression that we have escaped from some demon attacking our
 	
 	
 	
-	The Old womans warning under the banyan - Banyan tree - this is a small level just like the mango level. just 1 tree and we see all the dead hanginfbodies of the theyyam costumed performers, and an old lady comes and scares us and tells that he is a demon, and curses him and says that he and his people will die by the hands of the god. and the old lady talks implying that was our father. 
+	The Old womans warning under the banyan - Banyan tree - this is a small level just like the mango level. just 1 tree and we see all the dead hanginfbodies of the theyyam costumed performers, and an old lady who is grieving at a young boy comes and scares us and tells that the lord is a demon, and curses him and says that he and his people will die by the hands of the god. and the old lady talks implying that was our father. and blames us to for telling their villages secret of something maybe of what they are doing in the village with the water and using the rivers water. which his father disapproves and knows about the villagers in the lower settlements and escalated the feud.
 	
 	
 	Loop 1 ends,  with one of the dead bodies getting creepy and a sudden scream towards us jumpscare. and we open our eyes to see the intro story cutscene again with the figure looking at us and dad died beside us and everyone dead in the upper village.  
@@ -28,8 +28,8 @@ Loop 2
 
 	Banyan tree father - BT - same river bank, but its night and more creepy and eerie and disturbing, we walk towards the mango tree, but no mango tree. theres a banyan tree not with mangoes but dead bodies hanging from it, and in place for the mango boy, its our father throwing knives or something at them. have a brief conversation very creepy with dad and knows that he was always like this and he pulls our arms and throws us into the floor, suddenkly we are in a room and dad has locked us. its kind of like a hallcusination, where events are mixing up. not knowuing whgats real and whats not.
 	
-	Entrapment - Upper village - we are in our big house and trapped. we escape the house somehow and escape the village to the lower village. and we reach the lower village, the mango boy is very much alive
-	meeting the tribe village - LV
+	Entrapment - Upper village - we are in our big house and trapped. we escape the house somehow and escape the village to the lower village. and we reach the lower village, the mango boy is very much alive.
+	meeting the tribe village - Lower Village - We see the lower village very much alive everyone active and doing their jollies, we meet all the people who were dead we saw, and tragic poetry of how they died mirroring how they lived here. the boy and we do errands and have fun in the village meeting all the people. who we saw dead. and then his father comes in who is the performer, and 
 	The Ritual Performed Live
 	trance - UV
 	
