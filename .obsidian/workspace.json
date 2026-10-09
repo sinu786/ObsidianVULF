@@ -78,6 +78,18 @@
             }
           },
           {
+            "id": "33f96a91765ebb6a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
+          },
+          {
             "id": "2ab13ae8928d58a5",
             "type": "leaf",
             "state": {
@@ -148,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -311,7 +323,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bc72f70dd4dcd2fd",
+  "active": "33f96a91765ebb6a",
   "lastOpenFiles": [
     "Polishing.md",
     "Items Raktham.md",
