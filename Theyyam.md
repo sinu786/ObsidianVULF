@@ -64,3 +64,10 @@ Polish
 	Ambience and SFX First Pass
 
 
+
+
+Lower Village Objectives
+
+	- Forese Path - dead body, get the torch.
+	  
+	 - Enter the gates
