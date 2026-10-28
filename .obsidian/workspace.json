@@ -78,30 +78,6 @@
             }
           },
           {
-            "id": "de63c326993172f3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.5"
-            }
-          },
-          {
-            "id": "33f96a91765ebb6a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.4"
-            }
-          },
-          {
             "id": "2ab13ae8928d58a5",
             "type": "leaf",
             "state": {
@@ -349,7 +325,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "de63c326993172f3",
+  "active": "2ab13ae8928d58a5",
   "lastOpenFiles": [
     "Trailer Script.md",
     "Items Raktham.md",
