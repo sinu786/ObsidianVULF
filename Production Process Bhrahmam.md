@@ -12,6 +12,15 @@ Gameplay
 
 Mango Tree Level
 
-	Main Actors
-	
+	Unique Assets
+		Mango Tree
+		Mango Boy
+		Landscape
+	Common Assets
+		Foliage
+			Trees
+			Shrubs
+			Plants
+			Grass
+		Rocks and rubble
 	
