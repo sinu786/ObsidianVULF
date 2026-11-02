@@ -13,10 +13,10 @@ Gameplay
 Mango Tree Level
 
 	Unique Assets
-		Mango Tree
-		Mango Boy
-		Landscape
-	Common Assets
+		Mango Tree - Blender
+		Mango Boy - Manual
+		Landscape - UE5
+	Common Assets - Blender
 		Foliage
 			Trees
 			Shrubs
