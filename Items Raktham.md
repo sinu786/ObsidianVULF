@@ -6,7 +6,7 @@ Equip ables Tools permanent - In Inventory - cannot be thrown to the world only 
 
 Pickable commons - only in world cant be put in inventory
 
-	Pot - slingshot (breaks), sickle (breaks), Torch (only burns if filled with oil and douses if with water, Burning coal to store and pebbles to store), Oil and Water (store), Fire (Cookor Heat), Rope to make a fuse, can be filled with rice.
+	Pot - slingshot (breaks), sickle (breaks), Torch (only burns if filled with oil and douses if with water, Burning coal to store and pebbles to store), Oil and Water (store), Fire (Cookor Heat), Rope to make a fuse, can be filled with rice. 
 	Rice sacks - slingshot just hits, sickle tears and rice starts flowing out, torch burns, burning coal burns if dropped on top. pebbels nothing, oil and water absorbs and nothing, fire burns, Rope to hang or pull or fuse.
 
 Consumables and Throw ables - In Inventory / World
