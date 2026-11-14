@@ -1,4 +1,4 @@
-Gorons urn
+x Gorons urn
 Death mountain crater
 death mountain scrub
 zora domain
