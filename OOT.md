@@ -3,7 +3,6 @@ Skullkid sarias
 Gorons urn
 Death mountain crater
 death mountain scrub
-Bombchu
 zora domain
 Dampes under 1 minute
 50 Skulltula
@@ -12,6 +11,5 @@ dodongos cavern soil
 Death mountain Soil
 Lab soil
 Lab Dive
-Chest shop
 frogs all songs
 
