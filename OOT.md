@@ -9,3 +9,5 @@ gerduo valley 1 cucko
 gerudo valley waterfall
 fairy Chest
 gerudo fortress scarecrow
+gerudo fortress archery
+gerudo fortress colossus
