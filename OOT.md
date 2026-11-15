@@ -8,3 +8,9 @@ fairy Chest
 gerudo fortress scarecrow
 gerudo fortress archery
 gerudo fortress colossus
+
+
+
+
+castle tree
+castle grotto
