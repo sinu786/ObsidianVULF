@@ -5,8 +5,6 @@ Dampes under 1 minute
 Fairy near hyrule bridge - business scrub
 frogs all songs
 
-gerduo valley 1 cucko
-gerudo valley waterfall
 fairy Chest
 gerudo fortress scarecrow
 gerudo fortress archery
