@@ -1,7 +1,6 @@
 x Gorons urn
 Death mountain crater
 death mountain scrub
-zora domain
 Dampes under 1 minute
 50 Skulltula
 Fairy near hyrule bridge - business scrub
