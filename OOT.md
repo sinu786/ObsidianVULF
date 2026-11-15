@@ -1,11 +1,8 @@
-x Gorons urn
-Death mountain crater
-death mountain scrub
+
+
 Dampes under 1 minute
 50 Skulltula
 Fairy near hyrule bridge - business scrub
-dodongos cavern soil
-Death mountain Soil
 Lab soil
 Lab Dive
 frogs all songs
