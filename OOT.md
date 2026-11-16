@@ -10,11 +10,3 @@ gerudo fortress archery
 gerudo fortress colossus
 
 
-
-
-castle tree
-castle grotto
-
-
-kakariko night construction
-kakariko house behind
