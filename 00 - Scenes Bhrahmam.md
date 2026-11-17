@@ -1,7 +1,7 @@
-[[01- Intro U Village]] - M
+[[01 - Intro U Village]] - M
 02- River cutscene - S
 03 - MangoTree field - M
-04 - L Village Dead -B
+[[04 - L Village Dead ]]-B
 05 - Hanging Banyan ground - S
 06 - Banyan Horror - S
 07 - U Ancestral Home and U Village - B
