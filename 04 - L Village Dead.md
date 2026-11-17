@@ -14,3 +14,5 @@ Village Centre
 
 Rope suspended scaffolding. cut the wrong rope to pass through and the floor collapses.
 Something from the well
+
+bridge with planks
