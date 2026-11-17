@@ -5,4 +5,5 @@ Dense Forest Entrance (Slingshot equipped)
 
 
 Village Entrance
+Village Centre
 
