@@ -16,3 +16,5 @@ Rope suspended scaffolding. cut the wrong rope to pass through and the floor col
 Something from the well
 
 bridge with planks
+
+bees lots of bees surrounding a patch of broken massiv hive, burn the grass
