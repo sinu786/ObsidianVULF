@@ -5,5 +5,6 @@ Dense Forest Entrance (Slingshot equipped)
 
 
 Village Entrance
+	- Beat 1 (No way to get into the settlement. high fences. there is an irrigation wheel)
 Village Centre
 
