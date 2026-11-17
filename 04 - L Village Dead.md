@@ -17,4 +17,4 @@ Something from the well
 
 bridge with planks
 
-bees lots of bees surrounding a patch of broken massiv hive, burn the grass
+bees lots of bees surrounding a patch of broken massiv hive, burn the 
