@@ -132,6 +132,18 @@
             }
           },
           {
+            "id": "bf0857302306b0e9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.1"
+            }
+          },
+          {
             "id": "c8fb2bb2e9fad0b2",
             "type": "leaf",
             "state": {
@@ -230,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -393,7 +405,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6c960ab3a999fc56",
+  "active": "bf0857302306b0e9",
   "lastOpenFiles": [
     "Untitled 4.md",
     "OOT.md",
