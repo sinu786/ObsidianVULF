@@ -19,5 +19,5 @@ bridge with planks
 
 
 
-bees lots of bees surrounding a patch of broken massiv hive, burn the 
+bees lots of bees surrounding a patch of broken massive hive, burn the 
 
