@@ -20,3 +20,12 @@ Item and environmental puzzles
 Scriptures
 Details etc
 [[01 - Full game progression main]]
+
+
+
+## Dialgoues
+Main Points
+1. Mango Boy
+2. Old Woman and Mango Boys body
+3. Fathers insanity
+4. 
