@@ -15,4 +15,8 @@
 
 # Dev Sprints
 
+Movement and Story Progression (Dialogues only)
+Item and environmental puzzles
+Scriptures
+Details etc
 [[01 - Full game progression main]]

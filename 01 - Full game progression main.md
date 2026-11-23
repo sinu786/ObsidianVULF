@@ -8,7 +8,7 @@
 7. Scripted Mangoboy capture and shoot and capture and escape
 8. Escape to the edge of the forest path and follow towards the forest village
 
-## Forest Village
+## Forest Village*
 1. Guard patrol investigating body
 2. Investigation on the body and torch equip
 3. village entrance cattle blocking
@@ -20,7 +20,7 @@
 1. Wakeup from river bank
 2. Banyan tree father conversation
 
-## Upper Village
+## Upper Village*
 1. Inside the Ancestral Home Basement
 2. Basement to the ground floor
 3. ground floor to the first floor
@@ -29,7 +29,7 @@
 6. Pool area
 7. Forest exit
 
-## Lower Village Alive
+## Lower Village Alive*
 1. Forest path
 2. Tribal Guard greets
 3. village entrance
@@ -39,7 +39,13 @@
 
 ## Banyan Tree
 1. Lightup ritual grounds
-2. Cutscene
+2. Transformation
 
-## Upper Village Massacre
+## Upper Village Massacre*
+1. Demon grounds
+2. inner village
+3. castle entrance
+4. castle
+5. Boss Room
 
+## Intro Cutscene
