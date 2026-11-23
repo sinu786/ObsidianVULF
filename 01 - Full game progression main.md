@@ -11,3 +11,11 @@
 ## Forest Village
 1. Guard patrol investigating body
 2. Investigation on the body and torch equip
+3. village entrance cattle blocking
+4. village centre
+5. ritual grounds
+6. OldWoman with the Mangoboys body
+
+## Banyan Twisted
+1. Wakeup from river bank
+2. 
