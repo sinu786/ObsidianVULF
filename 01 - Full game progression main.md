@@ -18,4 +18,28 @@
 
 ## Banyan Twisted
 1. Wakeup from river bank
-2. 
+2. Banyan tree father conversation
+
+## Upper Village
+1. Inside the Ancestral Home Basement
+2. Basement to the ground floor
+3. ground floor to the first floor
+4. first floor to the balcony and outside
+5. central inner yard
+6. Pool area
+7. Forest exit
+
+## Lower Village Alive
+1. Forest path
+2. Tribal Guard greets
+3. village entrance
+4. Village centre
+5. side quests
+6. Ritual area light up
+
+## Banyan Tree
+1. Lightup ritual grounds
+2. Cutscene
+
+## Upper Village Massacre
+
