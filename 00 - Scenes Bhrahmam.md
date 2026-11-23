@@ -28,4 +28,7 @@ Main Points
 1. Mango Boy
 2. Old Woman and Mango Boys body
 3. Fathers insanity
-4. 
+4. Mango Boy
+5. Theyyam
+
+
