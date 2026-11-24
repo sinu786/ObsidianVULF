@@ -5,5 +5,7 @@
 4. Entrance View
 5. Stairs
 6. GrandFatherRoom
-7. Balcony
-8. Pool
+7. OldPool View
+8. Balcony
+9. Old Pool
+10. Exit
