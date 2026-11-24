@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LV_Hell_06.md",
+                "file": "LV_UpperVillageSuicide_07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LV_Hell_06"
+              "title": "LV_UpperVillageSuicide_07"
             }
           },
           {
@@ -522,13 +522,14 @@
   "active": "35edac94b08fd3ee",
   "lastOpenFiles": [
     "LEVELS.md",
+    "LV_UpperVillageSuicide_07.md",
+    "LV_LowerVillage_02.md",
     "LV_Hell_06.md",
     "LV_LowerVillageAlive_05.md",
     "Orange Launch Plan 1.md",
     "LV_UpperVillageMansion_04.md",
     "LV_BanyanTree_03.md",
     "LV_MangoTree_01.md",
-    "LV_LowerVillage_02.md",
     "01 - Full game progression main.md",
     "00 - Scenes Bhrahmam.md",
     "Untitled 1.md",
@@ -546,7 +547,6 @@
     "Bhrahmam Actions.md",
     "Items Raktham.md",
     "Shot_Shore.md",
-    "Script for DFI.md",
     "copilot/copilot-conversations",
     "copilot",
     "All",
