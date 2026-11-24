@@ -23,7 +23,7 @@ Details etc
 
 
 
-## Dialgoues
+## Dialogues
 Main Points
 1. Mango Boy
 2. Old Woman and Mango Boys body
